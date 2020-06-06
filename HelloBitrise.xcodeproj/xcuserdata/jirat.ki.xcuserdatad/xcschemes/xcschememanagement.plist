@@ -6,8 +6,23 @@
 	<dict>
 		<key>HelloBitrise.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>81BD112B248C0D3600E51A13</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81BD1141248C0D3800E51A13</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
