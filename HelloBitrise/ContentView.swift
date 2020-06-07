@@ -11,7 +11,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
       VStack {
-        Text("Hello✋")
+        Text("🤜🏻🤛🏽")
+          .padding(EdgeInsets(top: 0, leading: 0, bottom: 10, trailing: 0))
         Text("Bitrise!!")
       }
       
